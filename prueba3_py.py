@@ -9,4 +9,4 @@ Original file is located at
 
 import streamlit as st
 
-st.write('Hello *World!* :sunglases:')
+st.write('Hello *World!* :sunglasses:')
